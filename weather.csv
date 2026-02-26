@@ -1,0 +1,15 @@
+day,outlook ,temp,humidity,wind,tennis
+D1,sunny,hot,high,weak,no
+D2,sunny,hot,high,strong,no
+D3,overcast,hot,high,weak,yes
+D4,rain,mid,high,weak,yes
+D5,rain,cool,normal,weak,yes
+D6,rain,cool,normal,strong,no
+D7,overcast,cool,normal,strong,yes
+D8,sunny,mid,high,weak,no
+D9,sunny,cool,normal,weak,yes
+D10,rain,mid,normal,weak,yes
+D11,sunny,mid,normal,strong,yes
+D12,overcast,mid,high,strong,yes
+D13,overcast,hot,normal,weak,yes
+D14,rain,mid,high,strong,no
